@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.card-heading{
+  background-color: rgb(141, 141, 145);
+}
